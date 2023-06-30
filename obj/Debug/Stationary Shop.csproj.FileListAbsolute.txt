@@ -1,0 +1,6 @@
+c:\users\azzim\documents\visual studio 2012\Projects\Stationary Shop\Stationary Shop\bin\Debug\Stationary Shop.exe.config
+C:\Users\azzim\documents\visual studio 2012\Projects\Stationary Shop\Stationary Shop\bin\Debug\Stationary Shop.exe
+C:\Users\azzim\documents\visual studio 2012\Projects\Stationary Shop\Stationary Shop\bin\Debug\Stationary Shop.pdb
+C:\Users\azzim\documents\visual studio 2012\Projects\Stationary Shop\Stationary Shop\obj\Debug\Stationary Shop.csprojResolveAssemblyReference.cache
+C:\Users\azzim\documents\visual studio 2012\Projects\Stationary Shop\Stationary Shop\obj\Debug\Stationary Shop.exe
+C:\Users\azzim\documents\visual studio 2012\Projects\Stationary Shop\Stationary Shop\obj\Debug\Stationary Shop.pdb
